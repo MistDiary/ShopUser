@@ -1,5 +1,5 @@
 # shopuser
-
+# 项目展示链接：【全栈项目展示】 https://www.bilibili.com/video/BV1DehnzBEqy/?share_source=copy_web
 ## Project setup
 ```
 npm install
