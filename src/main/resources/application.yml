@@ -1,0 +1,20 @@
+
+server:
+  port: 8087
+  servlet:
+    context-path: /rg
+logging:
+  level:
+    '[org.springframework]': debug
+    '[com.example.elm.mapper]': debug
+     
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/rgshop?characterEncoding=utf-8
+    username: root
+    password: Ssy401401521
+
+mybatis:
+  type-aliases-package: com.example.rgshopping.po
+        
